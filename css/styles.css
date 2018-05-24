@@ -5,3 +5,7 @@
 .floatleft{
   float:left;
 }
+
+#hurricanebox{
+    min-height: 330px;
+}
