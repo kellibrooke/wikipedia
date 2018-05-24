@@ -9,3 +9,21 @@
 #hurricanebox{
     min-height: 330px;
 }
+
+.side-nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 180px;
+    padding: 10px 10px 10px 22px;
+}
+.side-nav li {
+  list-style: none;
+}
+.container{
+  margin-left: 180px;
+}
+
+.side-nav ul {
+  padding-left: 0px
+}
