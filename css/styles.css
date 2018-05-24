@@ -19,11 +19,31 @@
 }
 .side-nav li {
   list-style: none;
+  font-size: 14px;
+  color:#0645ad;
 }
+
 .container{
   margin-left: 180px;
 }
 
 .side-nav ul {
   padding-left: 0px
+}
+
+.side-nav hr{
+  margin-top:0px;
+  margin-bottom: 2px;
+}
+
+.side-nav p{
+  margin-bottom: 0px;
+}
+
+#topcategories{
+
+}
+
+.panel p{
+  padding:10px;
 }
